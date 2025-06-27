@@ -1,4 +1,4 @@
-\# 📝 Vibe Diary
+## 📝 Vibe Diary
 
 Using a machine learning model designed to analyze the **sentiment** of diary-style text entries. This model helps users understand their emotional tone over time by classifying entries as **positive**, **negative**, or **neutral**.
 
